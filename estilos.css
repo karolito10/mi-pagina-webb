@@ -11,10 +11,9 @@ body,html{
 .contenedor{
     text-align: center;
     padding: 20px;
-    background-color: #FFFBE6;
+    background-color: #ffffffc7;
     border-radius: 10px;
-    box-shadow: 0 4pc 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s;
+    transition: transform 0.5s;
 }
 
 .contenedor:hover{
@@ -30,6 +29,21 @@ body,html{
     border-radius: 5px;
     text-decoration: none;
 }
+
+.boton-redireccion{
+    background-color: #3442d7;
+    color: white;
+    padding: 05% 10%;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
 .boton-redireccion:hover{
     background-color: #ff4f3b;
+}
+
+.boton-redireccion:hover{
+    background-color: #fe513e;
 }
