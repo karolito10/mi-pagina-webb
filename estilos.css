@@ -21,7 +21,7 @@ body,html{
 }
 
 .boton-redireccion{
-    background-color: #FD5E4B;
+    background-color: #3442d7;
     color: white;
     padding: 05% 10%;
     display: inline-block;
@@ -41,9 +41,9 @@ body,html{
 }
 
 .boton-redireccion:hover{
-    background-color: #ff4f3b;
+    background-color: #3442d7;
 }
 
 .boton-redireccion:hover{
-    background-color: #fe513e;
+    background-color: #3442d7;
 }
