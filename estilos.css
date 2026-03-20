@@ -1,0 +1,35 @@
+body,html{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(blue-anime-japanese-street-at-night-mhjzw0dfhvpban92.webp) center center;
+    background-size: cover;
+}
+.contenedor{
+    text-align: center;
+    padding: 20px;
+    background-color: #FFFBE6;
+    border-radius: 10px;
+    box-shadow: 0 4pc 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.contenedor:hover{
+    transform: scale(1.05);
+}
+
+.boton-redireccion{
+    background-color: #FD5E4B;
+    color: white;
+    padding: 05% 10%;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.boton-redireccion:hover{
+    background-color: #ff4f3b;
+}
